@@ -1,4 +1,4 @@
-import randgreetings as rg
+import rangreetings as rg
 
 rg.hello(name='Randomness')
 rg.welcome(name='Randomness')
